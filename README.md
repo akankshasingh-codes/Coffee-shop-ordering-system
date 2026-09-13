@@ -44,6 +44,21 @@ The main focus of the project is to keep the pricing logic in the backend and ma
 - Store order-time prices
 
 ---
+## Screenshots
+
+### Menu
+
+![Coffee Shop Menu](screenshots/menu.png)
+
+### Order Summary
+
+![Order Summary](screenshots/order-summary.png)
+
+### Order Confirmation
+
+![Order Confirmation](screenshots/order-confirmation.png)
+
+---
 
 ## Backend Structure
 
